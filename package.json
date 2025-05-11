@@ -1,0 +1,12 @@
+{
+  "name": "calculadora-web",
+  "version": "1.0.0",
+  "description": "Calculadora web básica con pruebas unitarias y Docker",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
